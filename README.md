@@ -2,7 +2,10 @@
 
 ## Task List 
 
-- [x] Git intro
+- [x] <details> 
+  <summary>Git intro</summary>
+   ![finished course](https://github.com/alstep07/kottans-frontend/blob/master/lessons/git-screenshot.png?raw=true) 
+</details>
 - [ ] Linux CLI, HTTP
 - [ ] Git for Team Collaboration
 - [ ] Front-End Basics
