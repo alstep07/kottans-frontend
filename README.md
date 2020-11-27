@@ -1,11 +1,8 @@
 # kottans-frontend
 
-## Task List 
+## Progress 
 
-- [x] <details> 
-  <summary>Git intro</summary>
-   ![finished course](https://github.com/alstep07/kottans-frontend/blob/master/lessons/git-screenshot.png?raw=true) 
-</details>
+- [ ] Git intro
 - [ ] Linux CLI, HTTP
 - [ ] Git for Team Collaboration
 - [ ] Front-End Basics
@@ -20,3 +17,12 @@
 - [ ] Memory – Pair Game - practice
 - [ ] Website Performance Optimization - optional
 - [ ] Friends App - practice
+
+## Git Intro
+
+### Version Control with Git)
+
+<details>
+    <summary>Version Control with Git</summary>
+    <img src="img/version-control.png">
+</details>
