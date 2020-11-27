@@ -32,5 +32,5 @@
 </details>
 
 - I realized how important is to use *version control* in software development.
-- I learned one of the most used VCS's - **Git**
-- Now I can create *readme* files using **Markdown**
+- I learned one of the most used VCS's - **Git**.
+- Now I can create *readme* files using **Markdown**.
