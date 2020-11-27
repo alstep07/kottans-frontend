@@ -1,6 +1,6 @@
 # kottans-frontend
 
-##Task List 
+## Task List 
 
 1. Git intro
 2. Linux CLI, HTTP
