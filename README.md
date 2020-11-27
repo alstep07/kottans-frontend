@@ -20,15 +20,17 @@
 
 ## Git Intro
  
-- I learned version control and 
-realized how important is to use this in software development.
-
 <details>
     <summary>Version Control with Git</summary>
     <img src="img/version-control.png">
 </details>
 
+
 <details>
     <summary>Learn Git Branching</summary>
     <img src="img/gitbranching.png">
 </details>
+
+- I realized how important is to use *version control* in software development.
+- I learned one of the most used VCS's - **Git**
+- Now I can create *readme* files using **Markdown**
