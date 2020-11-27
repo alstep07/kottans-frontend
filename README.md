@@ -19,6 +19,9 @@
 - [ ] Friends App
 
 ## Git Intro
+ 
+- I learned version control and 
+realized how important is to use this in software development.
 
 <details>
     <summary>Version Control with Git</summary>
