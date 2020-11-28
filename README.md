@@ -60,11 +60,11 @@
     <img src="task_git_collaboration/git_remote.png">
 </details>
 
-- knowledge about contributing was new for me.
-- the power of `git rebase` surprize me.
-- I intend to read *contributing.md* files and use pull requests in future.
-
 <details>
     <summary>Learn Git Branching</summary>
-    <img src="task_git_collaboration/git_remote.png">
+    <img src="task_git_collaboration/gitbranching.png">
 </details>
+
+- knowledge about team working with GIT was allmost new for me.
+- the power of `git rebase` surprize me.
+- I intend to read *contributing.md* files and use pull requests in future.
