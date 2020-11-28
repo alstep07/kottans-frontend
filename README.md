@@ -40,7 +40,7 @@
 
 <details>
     <summary>Linux Survival</summary>
-    <img src="img/linux.png">
+    <img src="task_linux_cli/linux.png">
 </details>
 
 - learning Linux CLI was a useful experience for me.
