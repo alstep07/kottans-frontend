@@ -4,7 +4,7 @@
 
 -   [x] Git intro
 -   [x] Linux CLI, HTTP
--   [ ] Git for Team Collaboration
+-   [x] Git for Team Collaboration
 -   [ ] Front-End Basics
 -   [ ] Responsive Layouts
 -   [ ] HTML & CSS Practice
@@ -53,4 +53,18 @@
 -   I impressed, how I can modify the request and response headers in web frameworks and libraries.
 -   I intend to use my knowledge of URL structure, verbs and status codes.
 
-## Git for Team Collaboration
+## Git Collaboration
+
+<details>
+    <summary>Udacity Course</summary>
+    <img src="task_git_collaboration/git_remote.png">
+</details>
+
+- knowledge about contributing was new for me.
+- the power of `git rebase` surprize me.
+- I intend to read *contributing.md* files and use pull requests in future.
+
+<details>
+    <summary>Learn Git Branching</summary>
+    <img src="task_git_collaboration/git_remote.png">
+</details>
