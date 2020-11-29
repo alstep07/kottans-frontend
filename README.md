@@ -34,6 +34,7 @@
 -   I learned one of the most used VCS's - **Git**.
 -   Now I can create _readme_ files using **Markdown**.
 
+
 ## Linux CLI and HTTP
 
 ### Linux CLI
@@ -43,15 +44,16 @@
     <img src="task_linux_cli/linux.png">
 </details>
 
--   learning Linux CLI was a useful experience for me.
--   the difference between using CLI and GUI surprised me.
--   now I have the tools to perform some fairly sophisticated tasks in Linux.
+-   Learning Linux CLI was a useful experience for me.
+-   The difference between using CLI and GUI surprised me.
+-   Now I have the tools to perform some fairly sophisticated tasks in Linux.
 
 ### HTTP
 
--   a lot of things, like request and response message formats and HTTP caching, was new for me.
+-   A lot of things, like request and response message formats and HTTP caching, was new for me.
 -   I impressed, how I can modify the request and response headers in web frameworks and libraries.
 -   I intend to use my knowledge of URL structure, verbs and status codes.
+
 
 ## Git Collaboration
 
@@ -65,6 +67,33 @@
     <img src="task_git_collaboration/gitbranching.png">
 </details>
 
-- knowledge about team working with GIT was allmost new for me.
-- the power of `git rebase` surprize me.
-- I intend to read *contributing.md* files and use pull requests in future.
+-   Knowledge about team working with GIT was allmost new for me.
+-   The power of `git rebase` surprized me.
+-   I intend to read _contributing.md_ files and use pull requests in future.
+
+## Intro to HTML and CSS
+
+### Udacity course
+
+<details>
+    <summary>Html & Css</summary>
+    <img src="task_html_css_intro/udacity_html&css.png">
+</details>
+
+- I already knew much information of this course, but anyway it was helpfull.
+
+### Codecademy
+
+<details>
+    <summary>Html</summary>
+    <img src="task_html_css_intro/html.png">
+</details>
+
+- The most of information about html tables and forms was new for me.
+- The the benefits of Semantic HTML surprized me.
+- I intend to use semantic elements to make the code easier to read.
+
+<details>
+    <summary>CSS</summary>
+    <img src="#">
+</details>
