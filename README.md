@@ -95,5 +95,12 @@
 
 <details>
     <summary>CSS</summary>
-    <img src="#">
+    <img src="task_html_css_intro/css.png">
 </details>
+
+- I solidified my knowledge about how to control the positioning of elements on a web page.
+- Css grid layouts surprized me! It's usefull.
+- I intend to use many new properties of Flex Box and Css Grid Layout.
+
+
+##
