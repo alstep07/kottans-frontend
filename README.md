@@ -5,7 +5,7 @@
 -   [x] Git intro
 -   [x] Linux CLI, HTTP
 -   [x] Git for Team Collaboration
--   [ ] Front-End Basics
+-   [x] Front-End Basics
 -   [ ] Responsive Layouts
 -   [ ] HTML & CSS Practice
 -   [ ] JavaScript Basics
