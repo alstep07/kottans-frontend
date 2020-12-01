@@ -108,12 +108,17 @@
 </details>
 
 <details>
-    <summary>CSS</summary>
+    <summary>Flex Froggy</summary>
     <img src="task_responsive_web_design/froggy.png">
 </details>
 
+<details>
+    <summary>Grid Garden</summary>
+    <img src="task_responsive_web_design/grid.png">
+</details>
+
 -   I found out the fundamentals of responsive web design and created my responsive web page.
--   That was very interesting to learn Flex Box by gaming!
+-   That was very interesting to learn **Flex Box** and **CSS Grid Layout** by gaming!
 -   I will use CSS media queries to make my web pages responsive for different devices.
 
 ##
