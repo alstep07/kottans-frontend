@@ -22,12 +22,12 @@
 
 <details>
     <summary>Version Control with Git</summary>
-    <img src="git_intro/version-control.png">
+    <img src="task_git_intro/version-control.png">
 </details>
 
 <details>
     <summary>Learn Git Branching</summary>
-    <img src="git_intro/gitbranching.png">
+    <img src="task_git_intro/gitbranching.png">
 </details>
 
 -   I realized how important is to use _version control_ in software development.
@@ -110,11 +110,10 @@
 <details>
     <summary>CSS</summary>
     <img src="task_responsive_web_design/froggy.png">
-</details>        
+</details>
 
-- I found out the fundamentals of responsive web design and created my responsive web page.
-- That was very interesting to learn Flex Box by gaming!
-- I will use CSS media queries to make my web pages responsive for different devices.
+-   I found out the fundamentals of responsive web design and created my responsive web page.
+-   That was very interesting to learn Flex Box by gaming!
+-   I will use CSS media queries to make my web pages responsive for different devices.
 
-
-## 
+##
