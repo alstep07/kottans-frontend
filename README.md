@@ -143,3 +143,10 @@
     <summary>FreeCodeCamp ES6 Challenges</summary>
     <img src="task_js_basics/es6.png">
 </details>
+
+<details>
+    <summary>FreeCodeCamp Basic Data Structures</summary>
+    <img src="task_js_basics/basic-data-structures.png">
+</details>
+
+
