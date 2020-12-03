@@ -122,10 +122,24 @@
 -   I will use CSS media queries to make my web pages responsive for different devices.
 
 ## Hooli Style Popup
-
+<!-- 
 (demo)[https://alstep07.github.io/]
-(Code Base)[https://github.com/alstep07/kottans-frontend/tree/master/task_hooli_style_popup]
+(Code Base)[https://github.com/alstep07/kottans-frontend/tree/master/task_hooli_style_popup] -->
+> waiting for review...
 
-- 
--
--
+## JS Basics
+
+<details>
+    <summary>Udacity course</summary>
+    <img src="task_js_basics/udacity-basic-js.png">
+</details>
+
+<details>
+    <summary>FreeCodeCamp Basic JavaScript</summary>
+    <img src="task_js_basics/fcc-basic-js.png">
+</details>
+
+<details>
+    <summary>FreeCodeCamp ES6 Challenges</summary>
+    <img src="task_js_basics/es6.png">
+</details>
