@@ -8,7 +8,7 @@
 -   [x] Front-End Basics
 -   [x] Responsive Layouts
 -   [ ] HTML & CSS Practice
--   [ ] JavaScript Basics
+-   [x] JavaScript Basics
 -   [ ] Document Object Model
 -   [ ] Building a Tiny JS World (pre-OOP)
 -   [ ] Object-Oriented JavaScript
@@ -159,9 +159,9 @@
     <img src="task_js_basics/intermediate-algorithm.png">
 </details>
 
--
--
--
+- I learned a lot of new ES6 features, like **Rest and Spread operators**, **destructuring**, etc.
+- Now I can use powerfull methods like `map(), reduce() and filter()`.
+- I will try to make my code more predictable and avoid side effects, such as altering global variables.
 
 ## 
 
