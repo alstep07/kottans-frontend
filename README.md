@@ -149,4 +149,22 @@
     <img src="task_js_basics/basic-data-structures.png">
 </details>
 
+<details>
+    <summary>FreeCodeCamp Functional Programming</summary>
+    <img src="task_js_basics/functional-programming.png">
+</details>
+
+<details>
+    <summary>FreeCodeCamp Algorithm Scripting Challenges</summary>
+    <img src="task_js_basics/intermediate-algorithm.png">
+</details>
+
+-
+-
+-
+
+## 
+
+
+
 
