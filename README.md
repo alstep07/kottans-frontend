@@ -7,7 +7,7 @@
 -   [x] Git for Team Collaboration
 -   [x] Front-End Basics
 -   [x] Responsive Layouts
--   [ ] HTML & CSS Practice
+-   [x] HTML & CSS Practice
 -   [x] JavaScript Basics
 -   [ ] Document Object Model
 -   [ ] Building a Tiny JS World (pre-OOP)
@@ -121,11 +121,11 @@
 -   That was very interesting to learn **Flex Box** and **CSS Grid Layout** by gaming!
 -   I will use CSS media queries to make my web pages responsive for different devices.
 
-## Hooli Style Popup
-<!-- 
-(demo)[https://alstep07.github.io/]
-(Code Base)[https://github.com/alstep07/kottans-frontend/tree/master/task_hooli_style_popup] -->
-> waiting for review...
+## HTML & CSS practice
+
+### Hooli Style Popup
+
+(demo)[https://alstep07.github.io/]|(Code Base)[https://github.com/alstep07/kottans-frontend/tree/master/task_hooli_style_popup]
 
 ## JS Basics
 
