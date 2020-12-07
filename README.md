@@ -175,7 +175,7 @@
     <img src="task_js_dom/fcc-algorithm.png">
 </details>
 
-- I learned about what is the DOM and how to select items from the it.
+- I learned about what is the DOM and how to select items from it.
 - There are tons of methods and values in Web API.
 - It was very usefull information about perfomance.
 
