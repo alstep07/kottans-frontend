@@ -159,11 +159,29 @@
     <img src="task_js_basics/intermediate-algorithm.png">
 </details>
 
-- I learned a lot of new ES6 features, like **Rest and Spread operators**, **destructuring**, etc.
+- I learned a lot of new ES6 features, like **Rest and Spread operators**, **destructuring**, etc. 
 - Now I can use powerfull methods like `map(), reduce() and filter()`.
 - I will try to make my code more predictable and avoid side effects, such as altering global variables.
 
-## 
+## DOM
+
+<details>
+    <summary>JavaScript and the DOM</summary>
+    <img src="task_js_dom/udacity-dom.png">
+</details>
+
+<details>
+    <summary>FreeCodeCamp Algorithm Scripting Challenges</summary>
+    <img src="task_js_dom/fcc-algorithm.png">
+</details>
+
+- I learned about what is the DOM and how to select items from the it.
+- There are tons of methods and values in Web API.
+- It was very usefull information about perfomance.
+
+
+
+
 
 
 
