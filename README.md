@@ -189,7 +189,16 @@
 
 [demo](https://alstep07.github.io/a-tiny-JS-world/) | [Code Base](https://github.com/alstep07/a-tiny-JS-world/blob/populate-world/index.js)
 
-## 
+## Object-Oriented JavaScript
 
+<details>
+    <summary>Object Oriented JS</summary>
+    <img src="task_js_oop/udacity-oop.png">
+</details>
+
+<details>
+    <summary>CodeWars</summary>
+    <img src="task_js_oop/codewars.png">
+</details>
 
 
