@@ -127,6 +127,10 @@
 
 [demo](https://alstep07.github.io) | [Code Base](https://github.com/alstep07/kottans-frontend/tree/master/task_hooli_style_popup)
 
+- Making popup-window was new for me.
+- I didn't know it could be done without JS.
+- It was usefull practice!
+
 ## JS Basics
 
 <details>
