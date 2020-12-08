@@ -185,9 +185,15 @@
 
 [demo](https://alstep07.github.io/task-js-dom/) | [Code Base](https://github.com/alstep07/alstep07.github.io/tree/master/task-js-dom)
 
+- Theory is good, but practice is better!
+- It is hard when your code doesn't work, but this is the best way in learning.  
+
 ## Building a Tiny JS World
 
 [demo](https://alstep07.github.io/a-tiny-JS-world/) | [Code Base](https://github.com/alstep07/a-tiny-JS-world/blob/populate-world/index.js)
+
+- This tiny exercize is very usefull for a start.
+- I want to learn more about object-oriented programming in the next tasks.
 
 ## Object-Oriented JavaScript
 
