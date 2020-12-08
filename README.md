@@ -9,8 +9,8 @@
 -   [x] Responsive Layouts
 -   [x] HTML & CSS Practice
 -   [x] JavaScript Basics
--   [ ] Document Object Model
--   [ ] Building a Tiny JS World (pre-OOP)
+-   [x] Document Object Model
+-   [x] Building a Tiny JS World (pre-OOP)
 -   [ ] Object-Oriented JavaScript
 -   [ ] OOP exercise
 -   [ ] Offline Web Applications
@@ -165,6 +165,8 @@
 
 ## DOM
 
+### Theory
+
 <details>
     <summary>JavaScript and the DOM</summary>
     <img src="task_js_dom/udacity-dom.png">
@@ -179,10 +181,15 @@
 - There are tons of methods and values in Web API.
 - It was very usefull information about perfomance.
 
+### Practical task
 
+[demo](https://alstep07.github.io/task-js-dom/) | [Code Base](https://github.com/alstep07/alstep07.github.io/tree/master/task-js-dom)
 
+## Building a Tiny JS World
 
+[demo](https://alstep07.github.io/a-tiny-JS-world/) | [Code Base](https://github.com/alstep07/a-tiny-JS-world/blob/populate-world/index.js)
 
+## 
 
 
 
