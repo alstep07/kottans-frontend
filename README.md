@@ -127,9 +127,9 @@
 
 [demo](https://alstep07.github.io) | [Code Base](https://github.com/alstep07/kottans-frontend/tree/master/task_hooli_style_popup)
 
-- Making popup-window was new for me.
-- I didn't know it could be done without JS.
-- It was usefull practice!
+-   Making popup-window was new for me.
+-   I didn't know it could be done without JS.
+-   It was usefull practice!
 
 ## JS Basics
 
@@ -163,9 +163,9 @@
     <img src="task_js_basics/intermediate-algorithm.png">
 </details>
 
-- I learned a lot of new ES6 features, like **Rest and Spread operators**, **destructuring**, etc. 
-- Now I can use powerfull methods like `map(), reduce() and filter()`.
-- I will try to make my code more predictable and avoid side effects, such as altering global variables.
+-   I learned a lot of new ES6 features, like **Rest and Spread operators**, **destructuring**, etc.
+-   Now I can use powerfull methods like `map(), reduce() and filter()`.
+-   I will try to make my code more predictable and avoid side effects, such as altering global variables.
 
 ## DOM
 
@@ -181,28 +181,28 @@
     <img src="task_js_dom/fcc-algorithm.png">
 </details>
 
-- I learned about what is the DOM and how to select items from it.
-- There are tons of methods and values in Web API.
-- It was very usefull information about perfomance.
+-   I learned about what is the DOM and how to select items from it.
+-   There are tons of methods and values in Web API.
+-   It was very usefull information about perfomance.
 
 ### Practical task
 
 [demo](https://alstep07.github.io/task-js-dom/) | [Code Base](https://github.com/alstep07/alstep07.github.io/tree/master/task-js-dom)
 
-- Theory is good, but practice is better!
-- It is hard when your code doesn't work, but this is the best way in learning.  
+-   Theory is good, but practice is better!
+-   It is hard when your code doesn't work, but this is the best way in learning.
 
 ## Building a Tiny JS World
 
 [demo](https://alstep07.github.io/a-tiny-JS-world/) | [Code Base](https://github.com/alstep07/a-tiny-JS-world/blob/populate-world/index.js)
 
-- This tiny exercize is very usefull for a start.
-- I want to learn more about object-oriented programming in the next tasks.
+-   This tiny exercize is very usefull for a start.
+-   I want to learn more about object-oriented programming in the next tasks.
 
-## Object-Oriented JavaScript
+## Object Oriented JS
 
 <details>
-    <summary>Object Oriented JS</summary>
+    <summary>Udacity course</summary>
     <img src="task_js_oop/udacity-oop.png">
 </details>
 
@@ -211,4 +211,6 @@
     <img src="task_js_oop/codewars.png">
 </details>
 
+### Frogger Game
 
+[demo](https://alstep07.github.io/task-js-oop/) | [Code Base](https://github.com/alstep07/frontend-nanodegree-arcade-game/tree/master)
