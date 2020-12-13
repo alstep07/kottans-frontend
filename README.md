@@ -88,7 +88,7 @@
 </details>
 
 -   The most of information about html tables and forms was new for me.
--   The the benefits of Semantic HTML surprized me.
+-   The benefits of Semantic HTML surprized me.
 -   I intend to use semantic elements to make the code easier to read.
 
 <details>
@@ -125,7 +125,7 @@
 
 ### Hooli Style Popup
 
-[demo](https://alstep07.github.io) | [Code Base](https://github.com/alstep07/kottans-frontend/tree/master/task_hooli_style_popup)
+[demo](https://alstep07.github.io/html-css-popup/) | [Code Base](https://github.com/alstep07/kottans-frontend/tree/master/task_hooli_style_popup)
 
 -   Making popup-window was new for me.
 -   I didn't know it could be done without JS.
@@ -206,11 +206,15 @@
     <img src="task_js_oop/udacity-oop.png">
 </details>
 
+- With this course and extra materials i learned about prototypes and delegation.
+- This is a very difficult topic as for me, but it is very important to learn.
+- I intend to use OOP principles in future.
+
 <details>
     <summary>CodeWars</summary>
     <img src="task_js_oop/codewars.png">
 </details>
 
-### Frogger Game
+<!-- ### Frogger Game
 
-[demo](https://alstep07.github.io/task-js-oop/) | [Code Base](https://github.com/alstep07/frontend-nanodegree-arcade-game/tree/master)
+[demo](https://alstep07.github.io/task-js-oop/) | [Code Base](https://github.com/alstep07/frontend-nanodegree-arcade-game/tree/master) -->
