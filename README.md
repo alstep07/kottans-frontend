@@ -215,6 +215,10 @@
     <img src="task_js_oop/codewars.png">
 </details>
 
-<!-- ### Frogger Game
+### Frogger Game
 
-[demo](https://alstep07.github.io/task-js-oop/) | [Code Base](https://github.com/alstep07/frontend-nanodegree-arcade-game/tree/master) -->
+[demo](https://alstep07.github.io/task-js-oop/) | [Code Base](https://github.com/alstep07/frontend-nanodegree-arcade-game/tree/master)
+
+- This is a very good opportunity to use new knowledge.
+- I like practice tasks of this course.
+- Thanks to the mentors for the review!
