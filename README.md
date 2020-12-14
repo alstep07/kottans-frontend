@@ -11,7 +11,7 @@
 -   [x] JavaScript Basics
 -   [x] Document Object Model
 -   [x] Building a Tiny JS World (pre-OOP)
--   [ ] Object-Oriented JavaScript
+-   [x] Object-Oriented JavaScript
 -   [ ] OOP exercise
 -   [ ] Offline Web Applications
 -   [ ] Memory – Pair Game
@@ -222,3 +222,4 @@
 - This is a very good opportunity to use new knowledge.
 - I like practice tasks of this course.
 - Thanks to the mentors for the review!
+
