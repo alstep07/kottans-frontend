@@ -223,4 +223,7 @@
 -   I like practice tasks of this course.
 -   Thanks to the mentors for the review!
 
-## Offline Web Applications
+## OOP exercise
+
+- I saw the difference between my first method and OOP principles.
+- If you have to build a big world or some other big structure you should use OOP.
