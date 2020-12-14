@@ -30,7 +30,7 @@
     <img src="task_git_intro/gitbranching.png">
 </details>
 
--   I realized how important is to use _version control_ in software development.
+-   I realized how important it is to use _version control_ in software development.
 -   I learned one of the most used VCS's - **Git**.
 -   Now I can create _readme_ files using **Markdown**.
 
@@ -49,8 +49,8 @@
 
 ### HTTP
 
--   A lot of things, like request and response message formats and HTTP caching, was new for me.
--   I impressed, how I can modify the request and response headers in web frameworks and libraries.
+-   A lot of information from this course, like request and response message formats and HTTP caching, was new to me.
+-   I was impresse, how I can modify the request and response headers in web frameworks and libraries.
 -   I intend to use my knowledge of URL structure, verbs and status codes.
 
 ## Git Collaboration
@@ -78,7 +78,7 @@
     <img src="task_html_css_intro/udacity_html&css.png">
 </details>
 
--   I already knew much information of this course, but anyway it was helpfull.
+-   I already knew a lot of information from this course, but anyway it was helpfull.
 
 ### Codecademy
 
@@ -87,7 +87,7 @@
     <img src="task_html_css_intro/html.png">
 </details>
 
--   The most of information about html tables and forms was new for me.
+-   Most of the information about html tables and forms was new for me.
 -   The benefits of Semantic HTML surprized me.
 -   I intend to use semantic elements to make the code easier to read.
 
@@ -96,7 +96,7 @@
     <img src="task_html_css_intro/css.png">
 </details>
 
--   I solidified my knowledge about how to control the positioning of elements on a web page.
+-   I solidified my knowledge on how to control the positioning of elements on a web page.
 -   Css grid layouts surprized me! It's usefull.
 -   I intend to use many new properties of Flex Box and Css Grid Layout.
 
@@ -118,7 +118,7 @@
 </details>
 
 -   I found out the fundamentals of responsive web design and created my responsive web page.
--   That was very interesting to learn **Flex Box** and **CSS Grid Layout** by gaming!
+-   It was very interesting to learn **Flex Box** and **CSS Grid Layout** through gaming!
 -   I will use CSS media queries to make my web pages responsive for different devices.
 
 ## HTML & CSS practice
@@ -127,7 +127,7 @@
 
 [demo](https://alstep07.github.io/html-css-popup/) | [Code Base](https://github.com/alstep07/kottans-frontend/tree/master/task_hooli_style_popup)
 
--   Making popup-window was new for me.
+-   Making a popup-window was new for me.
 -   I didn't know it could be done without JS.
 -   It was usefull practice!
 
@@ -190,13 +190,13 @@
 [demo](https://alstep07.github.io/task-js-dom/) | [Code Base](https://github.com/alstep07/alstep07.github.io/tree/master/task-js-dom)
 
 -   Theory is good, but practice is better!
--   It is hard when your code doesn't work, but this is the best way in learning.
+-   It is hard when your code doesn't work, but it is the best way to learn.
 
 ## Building a Tiny JS World
 
 [demo](https://alstep07.github.io/a-tiny-JS-world/) | [Code Base](https://github.com/alstep07/a-tiny-JS-world/blob/populate-world/index.js)
 
--   This tiny exercize is very usefull for a start.
+-   This tiny exercise is very usefull for a start.
 -   I want to learn more about object-oriented programming in the next tasks.
 
 ## Object Oriented JS
