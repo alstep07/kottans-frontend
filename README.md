@@ -206,9 +206,9 @@
     <img src="task_js_oop/udacity-oop.png">
 </details>
 
-- With this course and extra materials i learned about prototypes and delegation.
-- This is a very difficult topic as for me, but it is very important to learn.
-- I intend to use OOP principles in future.
+-   With this course and extra materials i learned about prototypes and delegation.
+-   This is a very difficult topic as for me, but it is very important to learn.
+-   I intend to use OOP principles in future.
 
 <details>
     <summary>CodeWars</summary>
@@ -219,7 +219,8 @@
 
 [demo](https://alstep07.github.io/task-js-oop/) | [Code Base](https://github.com/alstep07/frontend-nanodegree-arcade-game/tree/master)
 
-- This is a very good opportunity to use new knowledge.
-- I like practice tasks of this course.
-- Thanks to the mentors for the review!
+-   This is a very good opportunity to use new knowledge.
+-   I like practice tasks of this course.
+-   Thanks to the mentors for the review!
 
+## Offline Web Applications
