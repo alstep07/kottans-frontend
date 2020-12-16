@@ -227,3 +227,20 @@
 
 - I saw the difference between my first method and OOP principles.
 - If you have to build a big world or some other big structure you should use OOP.
+- I get a lot of new knowledge through every review.
+
+## Offline Web Applications
+
+> I will return to this task after finishing required practice.
+
+## Memory Pair Game
+
+> coming soon...
+
+## Website Performance Optimization
+
+> I will return to this task after finishing required practice.
+
+## Friends App
+
+> coming soon...
