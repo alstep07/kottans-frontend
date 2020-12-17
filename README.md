@@ -12,7 +12,7 @@
 -   [x] Document Object Model
 -   [x] Building a Tiny JS World (pre-OOP)
 -   [x] Object-Oriented JavaScript
--   [ ] OOP exercise
+-   [x] OOP exercise
 -   [ ] Offline Web Applications
 -   [ ] Memory – Pair Game
 -   [ ] Website Performance Optimization
@@ -224,6 +224,8 @@
 -   Thanks to the mentors for the review!
 
 ## OOP exercise
+
+[demo](https://alstep07.github.io/a-tiny-JS-world/) | [Code Base](https://github.com/alstep07/a-tiny-JS-world/blob/master/index.js)
 
 - I saw the difference between my first method and OOP principles.
 - If you have to build a big world or some other big structure you should use OOP.
