@@ -16,7 +16,7 @@
 -   [ ] Offline Web Applications
 -   [ ] Memory – Pair Game
 -   [ ] Website Performance Optimization
--   [ ] Friends App
+-   [x] Friends App
 
 ## Git Intro
 
@@ -237,7 +237,7 @@
 
 ## Memory Pair Game
 
-> coming soon...
+> waiting for review.
 
 ## Website Performance Optimization
 
@@ -245,4 +245,8 @@
 
 ## Friends App
 
-> coming soon...
+[demo](https://alstep07.github.io/friends-app/) | [Code Base](https://github.com/alstep07/friends-app)
+
+- Through this task I got acquainted with async JS (but it's still difficult topic and I need more knowledge).
+- I was interesting to work with different array methods to sort and filter a data.
+- It was very usefull task and I will learn more about promises and async/awaits.
