@@ -239,7 +239,7 @@
 </details>
 
 - Unfortunately I could not start the application to try new technologies myself.
-- But anyway I got acquainted with Service Worker and Indexed DB.
+- But anyway I got acquainted with *Service Worker* and *Indexed DB*.
 - To use this technologies in future I should learn it more thoroughly and try in practice.
 
 ## Memory Pair Game
