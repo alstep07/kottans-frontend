@@ -13,7 +13,7 @@
 -   [x] Building a Tiny JS World (pre-OOP)
 -   [x] Object-Oriented JavaScript
 -   [x] OOP exercise
--   [ ] Offline Web Applications
+-   [x] Offline Web Applications
 -   [ ] Memory – Pair Game
 -   [ ] Website Performance Optimization
 -   [x] Friends App
@@ -233,7 +233,14 @@
 
 ## Offline Web Applications
 
-> I will return to this task after finishing required practice.
+<details>
+    <summary>Udacity course</summary>
+    <img src="task_offline_web_app/udacity-offline.png">
+</details>
+
+- Unfortunately I could not start the application to try new technologies myself.
+- But anyway I got acquainted with Service Worker and Indexed DB.
+- To use this technologies in future I should learn it more thoroughly and try in practice.
 
 ## Memory Pair Game
 
