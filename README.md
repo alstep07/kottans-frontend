@@ -14,7 +14,7 @@
 -   [x] Object-Oriented JavaScript
 -   [x] OOP exercise
 -   [x] Offline Web Applications
--   [ ] Memory – Pair Game
+-   [x] Memory – Pair Game
 -   [ ] Website Performance Optimization
 -   [x] Friends App
 
@@ -244,11 +244,11 @@
 
 ## Memory Pair Game
 
-> waiting for review.
+[demo](https://alstep07.github.io/memory-pair-game/) | [Code Base](https://github.com/alstep07/memory-pair-game)
 
-## Website Performance Optimization
-
-> I will return to this task after finishing required practice.
+- This task helped me to figure out DOM and events.
+- It was very interesting to create this game by myself.
+- I think that I will work with DOM in every project and I should understand it very well.
 
 ## Friends App
 
