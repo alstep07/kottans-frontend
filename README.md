@@ -243,7 +243,7 @@
 
 ## Memory Pair Game
 
-[demo](https://alstep07.github.io/memory-pair-game/) | [Code Base](https://github.com/alstep07/memory-pair-game)
+[demo](https://alstep07.github.io/memory-pairs-game/) | [Code Base](https://github.com/alstep07/memory-pairs-game)
 
 - This task helped me to figure out DOM and events.
 - It was very interesting to create this game by myself.
