@@ -15,7 +15,6 @@
 -   [x] OOP exercise
 -   [x] Offline Web Applications
 -   [x] Memory – Pair Game
--   [ ] Website Performance Optimization
 -   [x] Friends App
 
 ## Git Intro
@@ -125,7 +124,7 @@
 
 ### Hooli Style Popup
 
-[demo](https://alstep07.github.io/html-css-popup/) | [Code Base](https://github.com/alstep07/kottans-frontend/tree/master/task_hooli_style_popup)
+[demo](https://alstep07.github.io/popup-window/) | [Code Base](https://github.com/alstep07/popup-window)
 
 -   Making a popup-window was new for me.
 -   I didn't know it could be done without JS.
@@ -187,7 +186,7 @@
 
 ### Practical task
 
-[demo](https://alstep07.github.io/task-js-dom/) | [Code Base](https://github.com/alstep07/alstep07.github.io/tree/master/task-js-dom)
+[demo](https://alstep07.github.io/dom-movie-ranking) | [Code Base](https://github.com/alstep07/dom-movie-ranking)
 
 -   Theory is good, but practice is better!
 -   It is hard when your code doesn't work, but it is the best way to learn.
@@ -217,7 +216,7 @@
 
 ### Frogger Game
 
-[demo](https://alstep07.github.io/task-js-oop/) | [Code Base](https://github.com/alstep07/frontend-nanodegree-arcade-game/tree/master)
+[demo](https://alstep07.github.io/frogger-game/) | [Code Base](https://github.com/alstep07/frogger-game)
 
 -   This is a very good opportunity to use new knowledge.
 -   I like practice tasks of this course.
