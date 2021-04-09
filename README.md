@@ -209,10 +209,8 @@
 -   This is a very difficult topic as for me, but it is very important to learn.
 -   I intend to use OOP principles in future.
 
-<details>
-    <summary>CodeWars</summary>
-    <img src="task_js_oop/codewars.png">
-</details>
+### CodeWars
+<img src="https://www.codewars.com/users/alst07/badges/large">
 
 ### Frogger Game
 
